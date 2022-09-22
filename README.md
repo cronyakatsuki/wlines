@@ -10,7 +10,7 @@ Each push to master builds a new [release](https://github.com/JerwuQu/wlines/rel
 
 Menu entries are passed to wlines through stdin. After the user has made a choice, the result is sent out through stdout.
 
-Running `printf 'hello\nworld\n:)' | wlines.exe` (or ``"hello`nworld`n:)" | wlines.exe`` if using PowerShell) would bring up this prompt:
+Running `printf 'hello\nworld\n:)' | wlines.exe` or ``("hello`nworld`n:") | wlines.exe`` if using PowerShell) would bring up this prompt:
 
 ![image](https://user-images.githubusercontent.com/3710677/112474131-85c37e80-8d6f-11eb-81df-44c21b19e6a8.png)
 
