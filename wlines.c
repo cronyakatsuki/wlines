@@ -685,7 +685,7 @@ int main(int argc, char **argv)
 			.bgEdit = parseColor("#303446"),
 			.fgEdit = parseColor("#c6d0f5"),
 			.fontName = "FiraCode NF",
-			.fontSize = 12,
+			.fontSize = 24,
 			.lineCount = 15,
 		},
 	};
